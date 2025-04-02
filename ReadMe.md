@@ -1,4 +1,4 @@
-# Pruning
+# Prune Vision Model
 Prune mobilenetv2 by magnitude-based and taylor-based methods
 This is Lab 1: Prune Vision Model of Edge AI course, NYCU, 2025 spring.
 
