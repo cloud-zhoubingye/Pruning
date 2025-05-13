@@ -1,10 +1,9 @@
 # Prune Vision Model
-Prune mobilenetv2 by magnitude-based and taylor-based methods
-This is Lab 1: Prune Vision Model of Edge AI course, NYCU, 2025 spring.
+Prune mobilenetv2 by magnitude-based and taylor-based methods.
 
 ## Introduction
 
-This lab aims to prune the MobileNetV2 model, resulting in a significant speedup while maintaining satisfactory accuracy.
+This project aims to prune the MobileNetV2 model, resulting in a significant speedup while maintaining satisfactory accuracy.
 
 * Please download the provided Jupyter Notebook file using the link below.
 Follow the prompts and hints provided within the notebook to fill in the empty blocks and answer the questions.
